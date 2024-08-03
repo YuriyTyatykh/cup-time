@@ -10,7 +10,7 @@ const products = [
     {
         id: 2,
         title: "Зеленый индонезийский чай",
-        image: "image/photo-1.jpg.jpg",
+        image: "image/photo-1.jpg",
         price: 340,
     },
     {
